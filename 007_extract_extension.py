@@ -1,4 +1,4 @@
-filename = input("enter a filename (e.g. document.pdf, image.png, script.py): ")
+filename = input("enter a filename: ")
 
 file_extension = filename.split('.')[-1]
 
