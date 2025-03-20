@@ -40,6 +40,6 @@ for key in student_info:
     print(key)
 
 for key, value in student_info.items():
-    print(f"{key}: {value}")
+    print(key, value)
 
 
