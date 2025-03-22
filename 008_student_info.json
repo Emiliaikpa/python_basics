@@ -1,0 +1,35 @@
+{
+
+	"students": [
+		{
+			"name": "Emily Terseer",
+			"age": 17,
+			"class": "SS3",
+			"subjects": ["Mathematics", "Physics", :"Biology"],
+			"contact": {
+				"phone": "123-456-7890",
+				"email": "emily@example.com"
+			}
+		},
+		{
+			"name": "Bola Tinubu",
+			"age": 16,
+			"class": "SS2",
+			"subjects": ["English", "History", "Geography"],
+			"contact": {
+				"phone": "987-654-3210",
+				"email": "bola@example.com"
+			}
+		},
+		{
+			"name": "Adesina Adesina",
+			"age": 18,
+			"class": "SS3",
+			"subject": ["Chemistry", "Computer Science", "Economics"],
+			"contact": {
+				"phone": "555-123-4567",
+				"email": "adesina@example.com"
+			}
+		}
+}
+}
