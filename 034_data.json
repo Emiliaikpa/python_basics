@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "Title":"Things Fall Apart",
+        "Author":"Chinua Achebe",
+        "Year of Publication":1958,
+        "Price":3500
+    },
+    {
+        "id":2,
+        "Title":"Half of a Yellow Sun",
+        "Author":"Chimamanda Ngozi",
+        "Year of Publication":2006,
+        "Price":4200
+    },
+    {
+        "id":3,
+        "Title":"The Famished Road",
+        "Author":"Ben Okri",
+        "Year of Publication":1991,
+        "Price":3900
+    },
+    {
+        "id":4,
+        "Title":"Purple Hibiscus",
+        "Author":"Chimamanda Ngozi",
+        "Year of Publication":2003,
+        "Price":4100
+    },
+    {
+        "id":5,
+        "Title":"Americanah",
+        "Author":"Chimamanda Ngozi",
+        "Year of Publication":2013,
+        "Price":4500
+    },
+    {
+        "id":6,
+        "Title":"No Longer at Ease",
+        "Author":"Chinua Achebe",
+        "Year of Publication":1960,
+        "Price":3400
+    },
+    {
+        "id":7,
+        "Title":"The Concubine",
+        "Author":"Elechi Amadi",
+        "Year of Publication":1966,
+        "Price":3700
+    },
+    {
+        "id":8,
+        "Title":"Second Class Citizen",
+        "Author":"Buchi Emecheta",
+        "Year of Publication":1974,
+        "Price":3600
+    },
+    {
+        "id":9,
+        "Title":"So Long a Letter",
+        "Author":"Mariama B\u00e2",
+        "Year of Publication":1979,
+        "Price":3300
+    },
+    {
+        "id":10,
+        "Title":"Stay With Me",
+        "Author":"Ay\u1ecd\u0300b\u00e1mi Ad\u00e9b\u00e1y\u1ecd\u0300",
+        "Year of Publication":2017,
+        "Price":4300
+    }
+]
